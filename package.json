@@ -1,0 +1,11 @@
+{
+  "name": "battery-equivalents",
+  "version": "1.1.0",
+  "description": "Static site generator for a Battery Equivalents Cross-Reference website.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "clean": "rm -rf dist"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,1090 @@
+[
+  {
+    "code": "CR927",
+    "names": [
+      "CR927",
+      "BR927",
+      "DL927"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 92.0,
+    "height_mm": 0.7,
+    "common_uses": [
+      "Small electronics"
+    ],
+    "notes": "Smallest common coin cell; lower capacity.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR927+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR1025",
+    "names": [
+      "CR1025",
+      "BR1025",
+      "DL1025"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 10.0,
+    "height_mm": 2.5,
+    "common_uses": [
+      "Watches",
+      "Calculators"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR1025+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR1216",
+    "names": [
+      "CR1216",
+      "BR1216",
+      "DL1216"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 12.0,
+    "height_mm": 1.6,
+    "common_uses": [
+      "Car remotes",
+      "Clocks"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR1216+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR1220",
+    "names": [
+      "CR1220",
+      "BR1220",
+      "DL1220"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 12.0,
+    "height_mm": 2.0,
+    "common_uses": [
+      "Car remotes",
+      "Motherboards"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR1220+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR1225",
+    "names": [
+      "CR1225",
+      "BR1225",
+      "DL1225"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 12.0,
+    "height_mm": 2.5,
+    "common_uses": [
+      "Key fobs",
+      "Medical devices"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR1225+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR1616",
+    "names": [
+      "CR1616",
+      "BR1616",
+      "DL1616"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 16.0,
+    "height_mm": 1.6,
+    "common_uses": [
+      "Key fobs",
+      "Bike computers"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR1616+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR1620",
+    "names": [
+      "CR1620",
+      "BR1620",
+      "DL1620"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 16.0,
+    "height_mm": 2.0,
+    "common_uses": [
+      "Key fobs",
+      "Wearables"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR1620+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR1632",
+    "names": [
+      "CR1632",
+      "BR1632",
+      "DL1632"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 16.0,
+    "height_mm": 3.2,
+    "common_uses": [
+      "Key fobs",
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR1632+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2012",
+    "names": [
+      "CR2012",
+      "BR2012",
+      "DL2012"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 20.0,
+    "height_mm": 1.2,
+    "common_uses": [
+      "Slim remotes"
+    ],
+    "notes": "Thinner than CR2016/2025/2032.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2012+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2016",
+    "names": [
+      "CR2016",
+      "BR2016",
+      "DL2016"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 20.0,
+    "height_mm": 1.6,
+    "common_uses": [
+      "Car remotes",
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2016+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2020",
+    "names": [
+      "CR2020",
+      "BR2020",
+      "DL2020"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 20.0,
+    "height_mm": 2.0,
+    "common_uses": [
+      "Car remotes"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2020+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2025",
+    "names": [
+      "CR2025",
+      "BR2025",
+      "DL2025"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 20.0,
+    "height_mm": 2.5,
+    "common_uses": [
+      "Remotes",
+      "Calculators"
+    ],
+    "notes": "Thinner than CR2032; lower capacity.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2025+battery"
+    },
+    "compare_with": [
+      "CR2032",
+      "CR2025"
+    ]
+  },
+  {
+    "code": "CR2032",
+    "names": [
+      "CR2032",
+      "BR2032",
+      "DL2032",
+      "ECR2032",
+      "KCR2032"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 20.0,
+    "height_mm": 3.2,
+    "common_uses": [
+      "Key fobs",
+      "Motherboards",
+      "Scales"
+    ],
+    "notes": "Most popular coin cell.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2032+battery"
+    },
+    "compare_with": [
+      "CR2025"
+    ]
+  },
+  {
+    "code": "CR2040",
+    "names": [
+      "CR2040",
+      "BR2040",
+      "DL2040"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 20.0,
+    "height_mm": 4.0,
+    "common_uses": [
+      "Specialty devices"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2040+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2320",
+    "names": [
+      "CR2320",
+      "BR2320",
+      "DL2320"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 23.0,
+    "height_mm": 2.0,
+    "common_uses": [
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2320+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2325",
+    "names": [
+      "CR2325",
+      "BR2325",
+      "DL2325"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 23.0,
+    "height_mm": 2.5,
+    "common_uses": [
+      "Electronics",
+      "Medical devices"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2325+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2330",
+    "names": [
+      "CR2330",
+      "BR2330",
+      "DL2330"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 23.0,
+    "height_mm": 3.0,
+    "common_uses": [
+      "Electronics",
+      "Medical devices"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2330+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2354",
+    "names": [
+      "CR2354",
+      "BR2354",
+      "DL2354"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 23.0,
+    "height_mm": 5.4,
+    "common_uses": [
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2354+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2430",
+    "names": [
+      "CR2430",
+      "BR2430",
+      "DL2430"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 24.0,
+    "height_mm": 3.0,
+    "common_uses": [
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2430+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2450",
+    "names": [
+      "CR2450",
+      "BR2450",
+      "DL2450"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 24.0,
+    "height_mm": 5.0,
+    "common_uses": [
+      "Electronics",
+      "Bike sensors"
+    ],
+    "notes": "Thicker, higher capacity than CR2430.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2450+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2477",
+    "names": [
+      "CR2477",
+      "BR2477",
+      "DL2477"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 24.0,
+    "height_mm": 7.7,
+    "common_uses": [
+      "Electronics",
+      "IoT sensors"
+    ],
+    "notes": "Very high capacity coin cell.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2477+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "LIR2032",
+    "names": [
+      "LIR2032"
+    ],
+    "chemistry": "Rechargeable Lithium (LIR)",
+    "voltage": "3.6V nominal",
+    "diameter_mm": 20.0,
+    "height_mm": 3.2,
+    "common_uses": [
+      "Memory backup",
+      "Small electronics"
+    ],
+    "notes": "Rechargeable coin cell; check charger compatibility.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=LIR2032+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "ML1220",
+    "names": [
+      "ML1220"
+    ],
+    "chemistry": "Rechargeable Manganese Lithium (ML)",
+    "voltage": "3V nominal",
+    "diameter_mm": 22.0,
+    "height_mm": 0.0,
+    "common_uses": [
+      "Memory backup",
+      "Small electronics"
+    ],
+    "notes": "Rechargeable coin cell; check charger compatibility.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=ML1220+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "VL2020",
+    "names": [
+      "VL2020"
+    ],
+    "chemistry": "Rechargeable Vanadium Pentoxide Lithium (VL)",
+    "voltage": "3V nominal",
+    "diameter_mm": 2.0,
+    "height_mm": 0.0,
+    "common_uses": [
+      "Memory backup",
+      "Small electronics"
+    ],
+    "notes": "Rechargeable coin cell; check charger compatibility.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=VL2020+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "A10",
+    "names": [
+      "A10",
+      "PR70",
+      "10"
+    ],
+    "chemistry": "Zinc-Air (Hearing Aid)",
+    "voltage": "1.45V",
+    "diameter_mm": 5.8,
+    "height_mm": 3.6,
+    "common_uses": [
+      "Hearing aids"
+    ],
+    "notes": "Smallest common hearing aid size.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=A10+hearing+aid+batteries"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "A13",
+    "names": [
+      "A13",
+      "PR48",
+      "13"
+    ],
+    "chemistry": "Zinc-Air (Hearing Aid)",
+    "voltage": "1.45V",
+    "diameter_mm": 7.9,
+    "height_mm": 5.4,
+    "common_uses": [
+      "Hearing aids"
+    ],
+    "notes": "Same diameter as A312 but thicker.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=A13+hearing+aid+batteries"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "A312",
+    "names": [
+      "A312",
+      "PR41",
+      "312"
+    ],
+    "chemistry": "Zinc-Air (Hearing Aid)",
+    "voltage": "1.45V",
+    "diameter_mm": 7.9,
+    "height_mm": 3.6,
+    "common_uses": [
+      "Hearing aids"
+    ],
+    "notes": "Very common; remove tab to activate air.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=A312+hearing+aid+batteries"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "A675",
+    "names": [
+      "A675",
+      "PR44",
+      "675"
+    ],
+    "chemistry": "Zinc-Air (Hearing Aid)",
+    "voltage": "1.45V",
+    "diameter_mm": 11.6,
+    "height_mm": 5.4,
+    "common_uses": [
+      "Hearing aids"
+    ],
+    "notes": "Largest common hearing aid size.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=A675+hearing+aid+batteries"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "LR44",
+    "names": [
+      "LR44",
+      "AG13",
+      "A76",
+      "L1154",
+      "357",
+      "SR44",
+      "SR44W"
+    ],
+    "chemistry": "Alkaline (LR) / Silver Oxide (SR)",
+    "voltage": "1.5V (LR), 1.55V (SR)",
+    "diameter_mm": 11.6,
+    "height_mm": 5.4,
+    "common_uses": [
+      "Watches",
+      "Toys",
+      "Calculators"
+    ],
+    "notes": "SR (silver oxide) gives longer life and stable voltage.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=LR44+battery"
+    },
+    "compare_with": [
+      "SR44"
+    ]
+  },
+  {
+    "code": "SR44",
+    "names": [
+      "SR44",
+      "357",
+      "SR44W",
+      "SR1154",
+      "S76"
+    ],
+    "chemistry": "Silver Oxide (SR)",
+    "voltage": "1.55V",
+    "diameter_mm": 11.6,
+    "height_mm": 5.4,
+    "common_uses": [
+      "Watches",
+      "Medical devices"
+    ],
+    "notes": "Premium equivalent to LR44.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=SR44+battery"
+    },
+    "compare_with": [
+      "LR44"
+    ]
+  },
+  {
+    "code": "LR41",
+    "names": [
+      "LR41",
+      "AG3",
+      "192",
+      "392",
+      "SR41"
+    ],
+    "chemistry": "Alkaline (LR) / Silver Oxide (SR)",
+    "voltage": "1.5V (LR), 1.55V (SR)",
+    "diameter_mm": 7.9,
+    "height_mm": 3.6,
+    "common_uses": [
+      "Thermometers",
+      "Small electronics"
+    ],
+    "notes": "SR variant maintains voltage better.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=LR41+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "SR626SW",
+    "names": [
+      "SR626SW",
+      "377",
+      "AG4",
+      "LR626"
+    ],
+    "chemistry": "Silver Oxide (SR) / Alkaline (LR)",
+    "voltage": "1.55V (SR), 1.5V (LR)",
+    "diameter_mm": 6.8,
+    "height_mm": 2.6,
+    "common_uses": [
+      "Watches"
+    ],
+    "notes": "Prefer SR for timekeeping accuracy.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=SR626SW+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "SR521SW",
+    "names": [
+      "SR521SW",
+      "379",
+      "LR521"
+    ],
+    "chemistry": "Silver Oxide (SR) / Alkaline (LR)",
+    "voltage": "1.55V (SR), 1.5V (LR)",
+    "diameter_mm": 5.8,
+    "height_mm": 2.1,
+    "common_uses": [
+      "Watches"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=SR521SW+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "SR920SW",
+    "names": [
+      "SR920SW",
+      "371",
+      "LR920"
+    ],
+    "chemistry": "Silver Oxide (SR) / Alkaline (LR)",
+    "voltage": "1.55V (SR), 1.5V (LR)",
+    "diameter_mm": 9.5,
+    "height_mm": 2.1,
+    "common_uses": [
+      "Watches"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=SR920SW+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "SR927SW",
+    "names": [
+      "SR927SW",
+      "395",
+      "LR927"
+    ],
+    "chemistry": "Silver Oxide (SR) / Alkaline (LR)",
+    "voltage": "1.55V (SR), 1.5V (LR)",
+    "diameter_mm": 9.5,
+    "height_mm": 2.7,
+    "common_uses": [
+      "Watches"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=SR927SW+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "SR936SW",
+    "names": [
+      "SR936SW",
+      "394",
+      "LR936"
+    ],
+    "chemistry": "Silver Oxide (SR) / Alkaline (LR)",
+    "voltage": "1.55V (SR), 1.5V (LR)",
+    "diameter_mm": 9.5,
+    "height_mm": 3.6,
+    "common_uses": [
+      "Watches"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=SR936SW+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "SR1120SW",
+    "names": [
+      "SR1120SW",
+      "381",
+      "LR1120"
+    ],
+    "chemistry": "Silver Oxide (SR) / Alkaline (LR)",
+    "voltage": "1.55V (SR), 1.5V (LR)",
+    "diameter_mm": 11.6,
+    "height_mm": 2.0,
+    "common_uses": [
+      "Watches"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=SR1120SW+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "SR1130SW",
+    "names": [
+      "SR1130SW",
+      "389",
+      "LR1130",
+      "AG10"
+    ],
+    "chemistry": "Silver Oxide (SR) / Alkaline (LR)",
+    "voltage": "1.55V (SR), 1.5V (LR)",
+    "diameter_mm": 11.6,
+    "height_mm": 3.1,
+    "common_uses": [
+      "Watches",
+      "Toys"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=SR1130SW+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR123A",
+    "names": [
+      "CR123A",
+      "CR17345",
+      "DL123A"
+    ],
+    "chemistry": "Lithium (Primary)",
+    "voltage": "3V",
+    "diameter_mm": null,
+    "height_mm": null,
+    "common_uses": [
+      "Flashlights",
+      "Cameras"
+    ],
+    "notes": "High-drain primary cell.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR123A+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2",
+    "names": [
+      "CR2",
+      "DLCR2"
+    ],
+    "chemistry": "Lithium (Primary)",
+    "voltage": "3V",
+    "diameter_mm": null,
+    "height_mm": null,
+    "common_uses": [
+      "Cameras",
+      "Rangefinders"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "2CR5",
+    "names": [
+      "2CR5",
+      "DL245"
+    ],
+    "chemistry": "Lithium (Primary)",
+    "voltage": "6V",
+    "diameter_mm": null,
+    "height_mm": null,
+    "common_uses": [
+      "Cameras"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=2CR5+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR-P2",
+    "names": [
+      "CR-P2",
+      "CRP2",
+      "DL223"
+    ],
+    "chemistry": "Lithium (Primary)",
+    "voltage": "6V",
+    "diameter_mm": null,
+    "height_mm": null,
+    "common_uses": [
+      "Cameras"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR-P2+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "A23",
+    "names": [
+      "A23",
+      "23A",
+      "MN21"
+    ],
+    "chemistry": "Alkaline (A23)",
+    "voltage": "12V",
+    "diameter_mm": null,
+    "height_mm": null,
+    "common_uses": [
+      "Car remotes",
+      "Doorbells"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=A23+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "A27",
+    "names": [
+      "A27",
+      "27A",
+      "MN27"
+    ],
+    "chemistry": "Alkaline (A27)",
+    "voltage": "12V",
+    "diameter_mm": null,
+    "height_mm": null,
+    "common_uses": [
+      "Remotes"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=A27+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "N",
+    "names": [
+      "N",
+      "LR1",
+      "E90"
+    ],
+    "chemistry": "Alkaline (N cell)",
+    "voltage": "1.5V",
+    "diameter_mm": null,
+    "height_mm": null,
+    "common_uses": [
+      "Small flashlights",
+      "Remotes"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=N+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "J",
+    "names": [
+      "J",
+      "4LR61"
+    ],
+    "chemistry": "Alkaline (J cell)",
+    "voltage": "6V",
+    "diameter_mm": null,
+    "height_mm": null,
+    "common_uses": [
+      "Medical devices"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=J+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "PX625A",
+    "names": [
+      "PX625A",
+      "LR9",
+      "625A"
+    ],
+    "chemistry": "Alkaline (PX625A)",
+    "voltage": "1.5V",
+    "diameter_mm": null,
+    "height_mm": null,
+    "common_uses": [
+      "Vintage cameras",
+      "Meters"
+    ],
+    "notes": "Replaces obsolete mercury PX625.",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=PX625A+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR1020",
+    "names": [
+      "CR1020"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 10.0,
+    "height_mm": 2.0,
+    "common_uses": [
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR1020+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2412",
+    "names": [
+      "CR2412"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 24.0,
+    "height_mm": 1.2,
+    "common_uses": [
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2412+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2450N",
+    "names": [
+      "CR2450N"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": null,
+    "height_mm": null,
+    "common_uses": [
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2450N+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2050",
+    "names": [
+      "CR2050"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 20.0,
+    "height_mm": 5.0,
+    "common_uses": [
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2050+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2325",
+    "names": [
+      "CR2325"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 23.0,
+    "height_mm": 2.5,
+    "common_uses": [
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2325+battery"
+    },
+    "compare_with": []
+  },
+  {
+    "code": "CR2335",
+    "names": [
+      "CR2335"
+    ],
+    "chemistry": "Lithium Manganese Dioxide (CR)",
+    "voltage": "3V",
+    "diameter_mm": 23.0,
+    "height_mm": 3.5,
+    "common_uses": [
+      "Electronics"
+    ],
+    "notes": "",
+    "affiliate": {
+      "amazon": "https://www.amazon.com/s?k=CR2335+battery"
+    },
+    "compare_with": []
+  }
+]

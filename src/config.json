@@ -1,0 +1,8 @@
+{
+  "siteName": "Battery Equivalents",
+  "domain": "yourdomain.com",
+  "baseUrl": "https://www.yourdomain.com",
+  "brandColor": "#0f172a",
+  "adPlacementsEnabled": true,
+  "supportEmail": "support@example.com"
+}

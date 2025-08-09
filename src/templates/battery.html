@@ -1,0 +1,43 @@
+<article class="card">
+  <h1>{{BATTERY_CODE}} Equivalents & Replacements</h1>
+  <p class="lede">{{BATTERY_CODE}} is also known as: {{EQUIVALENTS}}.</p>
+
+  <div class="ad ad-top">{{AD_TOP}}</div>
+
+  <section class="specs">
+    <h2>Specifications</h2>
+    <table class="spec-table">
+      <tr><th>Chemistry</th><td>{{CHEMISTRY}}</td></tr>
+      <tr><th>Voltage</th><td>{{VOLTAGE}}</td></tr>
+      <tr><th>Diameter</th><td>{{DIAMETER}} mm</td></tr>
+      <tr><th>Height</th><td>{{HEIGHT}} mm</td></tr>
+      <tr><th>Common uses</th><td>{{USES}}</td></tr>
+    </table>
+    <p class="note">{{NOTES}}</p>
+  </section>
+
+  <section class="buy">
+    <h2>Buy {{BATTERY_CODE}}</h2>
+    <div class="buttons">
+      {{AFFILIATE_BUTTONS}}
+    </div>
+  </section>
+
+  <section class="related">
+    <h2>Related comparisons</h2>
+    <ul>
+      {{COMPARE_LINKS}}
+    </ul>
+  </section>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "{{BATTERY_CODE}}",
+    "description": "{{META_DESCRIPTION}}",
+    "category": "Batteries",
+    "isSimilarTo": [{{SIMILAR_PRODUCTS}}]
+  }
+  </script>
+</article>

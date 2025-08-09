@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{PAGE_TITLE}}</title>
+  <meta name="description" content="{{META_DESCRIPTION}}">
+  <link rel="canonical" href="{{CANONICAL_URL}}">
+  <meta name="theme-color" content="#0f172a">
+  <link rel="preload" href="/assets/styles.css" as="style">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{SITE_NAME}}",
+    "url": "{{BASE_URL}}",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "{{BASE_URL}}/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container flex-row">
+    <a href="/" class="brand">{{SITE_NAME}}</a>
+    <form action="/search" method="get" class="search">
+      <input type="text" name="q" placeholder="Search battery code…">
+      <button type="submit">Search</button>
+    </form>
+  </div>
+</header>
+
+<main class="container">
+  {{CONTENT}}
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; <span id="year"></span> {{SITE_NAME}}. All rights reserved. | <a href="/guides/about">About</a> | <a href="/guides/contact">Contact</a></p>
+  </div>
+</footer>
+
+<script>
+document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+<script defer src="/assets/search.js"></script>
+</body>
+</html>
