@@ -1,39 +1,31 @@
-# Battery Equivalents — Ready-to-Deploy Static Site
+# TravelPlugGuide
 
-A fast, low-maintenance reference site for small battery equivalents (LR, SR, CR, A-series).
+Static site that helps travellers check adapter and voltage compatibility.
 
-## Edit Your Domain (GUI)
-1) Open `src/config.json` in GitHub and click **Edit**.
-2) Set:
-```json
-"domain": "yourdomain.com",
-"baseUrl": "https://www.yourdomain.com"
+## What’s inside
+- `index.html` — interactive checker UI (fast, single-file CSS)
+- `app.js` — fetches `data.json`, renders results, flags, badges
+- `data.json` — country dataset (sample included; replace with full set)
+- `generate.js` — builds `/countries/*.html` landing pages for SEO
+- `sitemap.js` — creates `sitemap.xml`
+- `minify.js` — placeholder (no-op), kept for Netlify build compatibility
+- `netlify.toml` — build settings for Netlify
+- `robots.txt` — simple allow-all + sitemap
+
+## Deploy
+1. Push all files to GitHub (root of repo).
+2. Netlify: set site to build with the included `netlify.toml` (auto-detected).
+3. Deploy. The build will:
+   - read `data.json`
+   - generate `/countries/*.html`
+   - produce `sitemap.xml` using your deploy URL
+
+## Customize
+- Replace `YOURTAGHERE` in `app.js` with your Amazon Associates tag.
+- Replace `data.json` with your full dataset (array or map). Keys supported:
+  - `name`/`country`, `iso2`/`alpha2`/`code`, `plugs`/`plug_types`, `voltage`, `frequency`
+
+## Local build
+```bash
+node generate.js && node minify.js && SITE_URL=http://localhost:8080 node sitemap.js
 ```
-3) Commit changes (Netlify will rebuild automatically).
-
-## Deploy with Netlify (GUI)
-1) Create a GitHub repo → click **Upload files** and drag in everything from this folder.
-2) In Netlify → **Add new site → Import from Git** → select your repo.
-3) Build command: `npm run build` | Publish directory: `dist`.
-4) After first deploy, go to **Domain management** and add your custom domain.
-   - **Netlify DNS** (recommended): switch nameservers in your registrar to the ones Netlify shows.
-   - **Keep registrar DNS**: set CNAME for `www` → `your-site.netlify.app` and A records for `@` → `75.2.60.5`, `99.83.190.102`.
-5) Enable HTTPS (Let’s Encrypt) in **Domain management → HTTPS**.
-
-## Update Content (GUI)
-- Edit `src/data/batteries.json` in GitHub to add/modify items.
-- Each commit triggers a new build; pages and sitemap update automatically.
-
-## Monetization
-- Add affiliate URLs inside each item’s `"affiliate"` field.
-- Replace ad placeholders (`{{AD_*}}`) in templates or use Netlify Snippet Injection.
-
-## Includes
-- Templates for homepage, categories, item pages, comparisons, and guides.
-- Schema.org (`WebSite` + SearchAction; `Product` on item pages).
-- Canonicals based on `baseUrl`, plus generated `sitemap.xml` and `robots.txt`.
-- Expanded `batteries.json` with ~50+ common batteries.
-
-## Local Test (optional)
-If you want to preview locally:
-- Install Node.js, then run `npm install` and `npm run build`, and open `dist/index.html`.

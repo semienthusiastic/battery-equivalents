@@ -1,10 +1,11 @@
 [build]
-  command = "npm run build"
-  publish = "dist"
+  command = "node generate.js && node minify.js && SITE_URL=$DEPLOY_PRIME_URL node sitemap.js"
+  publish = "."
+  environment = { NODE_VERSION = "18" }
 
-# Optional: redirect apex to www (uncomment if you choose www as primary)
-# [[redirects]]
-#   from = "https://yourdomain.com/*"
-#   to = "https://www.yourdomain.com/:splat"
-#   status = 301
-#   force = true
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"

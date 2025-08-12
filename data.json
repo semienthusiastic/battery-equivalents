@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Ireland",
+    "iso2": "IE",
+    "plugs": [
+      "G"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "United Kingdom",
+    "iso2": "GB",
+    "plugs": [
+      "G"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "United States",
+    "iso2": "US",
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "voltage": 120,
+    "frequency": 60
+  },
+  {
+    "name": "Canada",
+    "iso2": "CA",
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "voltage": 120,
+    "frequency": 60
+  },
+  {
+    "name": "France",
+    "iso2": "FR",
+    "plugs": [
+      "C",
+      "E"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "Germany",
+    "iso2": "DE",
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "Japan",
+    "iso2": "JP",
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "voltage": 100,
+    "frequency": "50/60"
+  },
+  {
+    "name": "Spain",
+    "iso2": "ES",
+    "plugs": [
+      "C",
+      "F"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "Italy",
+    "iso2": "IT",
+    "plugs": [
+      "C",
+      "F",
+      "L"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "Australia",
+    "iso2": "AU",
+    "plugs": [
+      "I"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "New Zealand",
+    "iso2": "NZ",
+    "plugs": [
+      "I"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "China",
+    "iso2": "CN",
+    "plugs": [
+      "A",
+      "C",
+      "I"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "Hong Kong",
+    "iso2": "HK",
+    "plugs": [
+      "G"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "Singapore",
+    "iso2": "SG",
+    "plugs": [
+      "G",
+      "M"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "India",
+    "iso2": "IN",
+    "plugs": [
+      "C",
+      "D",
+      "M"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "South Africa",
+    "iso2": "ZA",
+    "plugs": [
+      "C",
+      "D",
+      "M",
+      "N"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "Brazil",
+    "iso2": "BR",
+    "plugs": [
+      "C",
+      "N"
+    ],
+    "voltage": 127,
+    "frequency": 60
+  },
+  {
+    "name": "Mexico",
+    "iso2": "MX",
+    "plugs": [
+      "A",
+      "B"
+    ],
+    "voltage": 127,
+    "frequency": 60
+  },
+  {
+    "name": "United Arab Emirates",
+    "iso2": "AE",
+    "plugs": [
+      "G"
+    ],
+    "voltage": 230,
+    "frequency": 50
+  },
+  {
+    "name": "Saudi Arabia",
+    "iso2": "SA",
+    "plugs": [
+      "G"
+    ],
+    "voltage": 230,
+    "frequency": 60
+  }
+]

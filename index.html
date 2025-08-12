@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TravelPlugGuide</title>
+  <meta name="description" content="Instantly check if you need a travel plug adapter or voltage converter for your destination." />
+  <style>
+    :root{
+      --bg:#f7fafc; --text:#0f172a; --muted:#64748b; --brand:#0a6fae;
+      --border:#e2e8f0; --ok:#dcfce7; --ok-b:#22c55e; --warn:#fff7e6; --warn-b:#f59e0b; --bad:#fee2e2; --bad-b:#ef4444;
+    }
+    *{box-sizing:border-box}
+    body{margin:0; font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif; background:var(--bg); color:var(--text)}
+    .wrap{max-width:900px; margin:0 auto; padding:24px 16px}
+    h1{font-size:28px; margin:0 0 8px}
+    .sub{color:var(--muted); margin:0 0 20px}
+
+    .grid{display:grid; gap:18px}
+    @media (min-width:760px){ .grid{grid-template-columns:1fr 1fr} }
+    label{font-weight:800; font-size:18px; display:block; margin:0 0 8px}
+    .row{display:flex; align-items:center; gap:10px}
+    .flag{width:28px; height:28px; display:grid; place-items:center; font-size:18px; background:#fff; border:1px solid var(--border); border-radius:50%}
+    select{flex:1; padding:12px 14px; border:1px solid var(--border); border-radius:10px; font-size:16px; background:#fff}
+
+    .hint{margin-top:8px; color:var(--muted); font-size:13px}
+    .helper input{width:100%; margin-top:6px; padding:10px 12px; border:1px solid var(--border); border-radius:10px; font-size:14px}
+
+    .card{margin-top:20px; background:#fff; border:1px solid var(--border); border-radius:14px; padding:16px}
+    .result{display:flex; gap:14px; align-items:flex-start; border:2px solid #0ea5e9; background:#ebf8ff; border-radius:12px; padding:16px}
+    .result.ok{background:var(--ok); border-color:var(--ok-b)}
+    .result.warn{background:var(--warn); border-color:var(--warn-b)}
+    .result.bad{background:var(--bad); border-color:var(--bad-b)}
+    .emoji{font-size:32px}
+    .result h3{margin:2px 0 4px; font-size:20px}
+    .result .subtext{color:#334155; font-size:14px}
+
+    .dest{margin-top:14px}
+    .dest h4{margin:0 0 8px; font-size:16px}
+    .rowBlock{margin:8px 0}
+    .label{display:block; font-weight:700; margin-bottom:4px}
+    .badges{margin-top:6px}
+    .badge{display:inline-block; padding:4px 8px; border-radius:999px; border:1px solid var(--border); background:#fff; font-size:12px; margin:0 6px 6px 0}
+
+    .aff{margin-top:14px; padding:14px; border-radius:12px; background:#0a6fae10; border:1px solid var(--border)}
+    .aff a{display:inline-block; padding:10px 14px; border-radius:10px; background:var(--brand); color:#fff; text-decoration:none; font-weight:800}
+    .note{margin-top:6px; font-size:13px; color:var(--muted)}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <h1>Will my plug work in my destination?</h1>
+    <p class="sub">Pick where you’re travelling <em>from</em> and <em>to</em>. We’ll tell you if you need a travel adapter and if a voltage converter is required.</p>
+
+    <section class="grid" aria-label="Country selectors">
+      <div>
+        <label for="from">I’m travelling from</label>
+        <div class="row">
+          <span class="flag" id="fromFlag">🌍</span>
+          <select id="from" aria-label="Home country"></select>
+        </div>
+        <div class="hint"><label><input type="checkbox" id="dual" checked> My device is dual-voltage (100–240V)</label></div>
+        <div class="helper hint">
+          Or paste your device label (optional), e.g. <em>“Input: 100–240V 50/60Hz”</em>:
+          <input id="deviceLabel" type="text" placeholder="Input: 100–240V 50/60Hz" />
+        </div>
+      </div>
+
+      <div>
+        <label for="to">To</label>
+        <div class="row">
+          <span class="flag" id="toFlag">🧭</span>
+          <select id="to" aria-label="Destination country"></select>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div id="resultBox" class="result">
+        <div id="emoji" class="emoji">❓</div>
+        <div>
+          <h3 id="headline">Select countries above to get your answer.</h3>
+          <div id="subtext" class="subtext"></div>
+        </div>
+      </div>
+
+      <div class="dest">
+        <h4>Destination Plug Info</h4>
+        <div class="rowBlock">
+          <span class="label">Tip</span>
+          <div id="tip">–</div>
+        </div>
+        <div class="rowBlock">
+          <span class="label">Voltage & frequency</span>
+          <div id="vf">–</div>
+        </div>
+        <div class="rowBlock">
+          <span class="label">Destination plug types</span>
+          <div class="badges" id="plugBadges"></div>
+        </div>
+      </div>
+
+      <div class="aff">
+        <a id="buy" href="#" target="_blank" rel="nofollow sponsored">Buy the correct adapter</a>
+        <div class="note">We may earn a commission if you buy via this link, <strong>at no extra cost to you</strong>. It helps keep this site free.</div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
